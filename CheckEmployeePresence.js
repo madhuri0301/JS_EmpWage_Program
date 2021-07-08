@@ -8,5 +8,5 @@ if(empCheck == IS_ABSENT)
 }
 else
 {
-    console.log("Employee Is Present");
+    console.log("Employee IS Present");
 }
